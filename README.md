@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Prakash
 
-### Front-End Developer | JavaScript Enthusiast | UI/UX Lover
+### Front-End Developer | JavaScript Enthusiast |
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a knack for creating beautiful, responsive, and user-friendly websites and applications.
 
