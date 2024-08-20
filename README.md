@@ -1,6 +1,5 @@
-## Hi there 👋, I'm Prakash
-
-### Front-End Developer | JavaScript Enthusiast |
+#About Me
+ I'm Prakash, a dedicated Front-End Developer with a strong passion for crafting visually appealing and highly functional websites and applications. With a deep understanding of HTML, CSS, and JavaScript, I specialize in building responsive and user-centric interfaces. My expertise extends to modern frameworks like React, which allows me to create dynamic and scalable web applications.
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with a knack for creating beautiful, responsive, and user-friendly websites and applications.
 
