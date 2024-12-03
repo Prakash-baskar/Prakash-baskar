@@ -21,4 +21,4 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-baskar-b2a5b32b8/)
 [![Naukri](https://img.shields.io/badge/Naukri-0033A0?style=flat-square&logo=naukri&logoColor=white)]( https://www.naukri.com/mnjuser/profile?id=&altresid)
 
-Thanks for stopping by! 😊
+Thanks for visit My profile...! 😊
