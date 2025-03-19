@@ -15,6 +15,11 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+### GitHub Readme Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakash-baskar&show_icons=true&theme=radical)
+
+### GitHub Contributions Graph
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-baskar&layout=compact&theme=radical)
 
 ### 🌐 Connect with Me
 
@@ -22,10 +27,3 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 [![Naukri](https://img.shields.io/badge/Naukri-0033A0?style=flat-square&logo=naukri&logoColor=white)]( https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 Thanks for visit My profile...! 😊
-### GitHub Readme Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakash-baskar&show_icons=true&theme=radical)
-
-### GitHub Contributions Graph
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-baskar&layout=compact&theme=radical)
-
-
