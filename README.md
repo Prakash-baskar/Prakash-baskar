@@ -22,3 +22,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 [![Naukri](https://img.shields.io/badge/Naukri-0033A0?style=flat-square&logo=naukri&logoColor=white)]( https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 Thanks for visit My profile...! 😊
+### GitHub Readme Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
