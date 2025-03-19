@@ -25,3 +25,7 @@ Thanks for visit My profile...! 😊
 ### GitHub Readme Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakash-baskar&show_icons=true&theme=radical)
 
+### GitHub Contributions Graph
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-baskar&layout=compact&theme=radical)
+
+
