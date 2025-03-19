@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with a knack 
 ### GitHub Contributions Graph
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-baskar&layout=compact&theme=radical)
 
+---
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-baskar-b2a5b32b8/)
